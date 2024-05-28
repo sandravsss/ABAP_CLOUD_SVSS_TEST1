@@ -1,0 +1,4 @@
+@EndUserText.label: 'Test2'
+define service Zui_svss_tb_test2 {
+  expose ZCDS_SVSS_TEST2;
+}
